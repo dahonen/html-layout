@@ -1,0 +1,34 @@
+.container { position:relative; padding:0 0 0 55px; }
+#sidebar {
+    position:absolute;
+    top:102px; bottom:100px; left:;
+    width:110px;
+    background:#D8D8D8;
+    height: 612px;
+}
+#sidebar2{
+    float: right;
+    position:absolute;
+    top:102px; bottom:100px; right:0;
+    width:110px;
+    background:#D8D8D8;
+    height: 612px;
+}
+#header { border:1px solid #000; width:100px; height:100px; 
+    margin:0 0 5px 0;
+    width: 100%;
+    background:#444444;
+}
+#content { border:1px width:px; height:500px;
+    width: 100%;
+    height:
+}
+#footer { 
+    border:1px solid #000; 
+    margin:5px 0 0 0;
+    width: px;
+    height:100px;
+    background:#222222;
+    margin-right: 110px;
+    margin-left: 110px;
+}
